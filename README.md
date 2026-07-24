@@ -1,12 +1,12 @@
 # Monogram + Cubase #
 
-This is a collection of Monogram assignments for Steinberg Cubase, version 11 or later.
+This is a collection of Monogram assignments for Steinberg Cubase and Nuendo, version 5 or later, with Spitfire, VSL and typical film composing midi CCs.
 
 ### Prerequisites ###
 
-- [Monogram Creator](https://monogramcc.com/download/)
-- [Monogram Creative Console](https://monogramcc.com/) (Not developed or tested with Palette Gear)
-- [Steinberg Cubase](https://www.steinberg.net/cubase/) (Version 11 or later required)
+- For Monogram hardware[Monogram Creator](https://monogramcc.com/download/) (for monogram devices)
+- For Palette Gear hardware, community supplied Google Drive backup of Monogram Legacy 4.1(https://vi-control.net/community/threads/beware-of-monogram-control-surface-company.153413/page-11)
+- Cubase or Nuendo (version 4 or later)
 
 ---
 
@@ -41,3 +41,7 @@ This is purely a homebrewed set of Monogram assignments for Cubase. A few things
 
 - Some assignments are unavailable or impossible with Orbiter inner disc (inherent incompatibility).
 - Customize View in Creator > Module Settings window does not display Cubase Mode assignments. Please use Presets View > Cubase Mode or Customize View > MIDI Mode and Keyboard Mode in order to select your chosen assignments.
+
+### Credits ###
+
+- This is an up to date fork of the original repo https://github.com/andyjhayes/mono-cubase to add support for newer versions of Cubase/Nuendo plus Vienna Symphonic Library.

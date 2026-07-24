@@ -309,7 +309,7 @@
           "label": "MIDI CC.CC11 Expression",
           "name": "MIDI CC.Expression",
           "pose": {
-            "cc": 10,
+            "cc": 11,
             "channel": 1,
             "midi": "cc"
             }
@@ -359,6 +359,114 @@
             "midi": "cc"
             }
         },
+      {
+        "label": "MIDI CC.VSL.CC20 Vibrato",
+        "name": "MIDI CC.VSL.Vibrato",
+        "pose": {
+          "cc": 20,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.CC71 Resonance",
+        "name": "MIDI CC.Resonance",
+        "pose": {
+          "cc": 71,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.CC22 Unassigned",
+        "name": "MIDI CC.22 Unassigned",
+        "pose": {
+          "cc": 22,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.CC23 Unassigned",
+        "name": "MIDI CC.23 Unassigned",
+        "pose": {
+          "cc": 23,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.CC24 Unassigned",
+        "name": "MIDI CC.24 Unassigned",
+        "pose": {
+          "cc": 24,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.CC25 Unassigned",
+        "name": "MIDI CC.25 Unassigned",
+        "pose": {
+          "cc": 25,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.CC26 Unassigned",
+        "name": "MIDI CC.26 Unassigned",
+        "pose": {
+          "cc": 26,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.CC27 Unassigned",
+        "name": "MIDI CC.27 Unassigned",
+        "pose": {
+          "cc": 27,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.CC28 Unassigned",
+        "name": "MIDI CC.28 Unassigned",
+        "pose": {
+          "cc": 28,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.CC29 Unassigned",
+        "name": "MIDI CC.29 Unassigned",
+        "pose": {
+          "cc": 29,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.CC30 Unassigned",
+        "name": "MIDI CC.30 Unassigned",
+        "pose": {
+          "cc": 30,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.CC31 Unassigned",
+        "name": "MIDI CC.31 Unassigned",
+        "pose": {
+          "cc": 31,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
         {
           "label": "Quick Controls.Quick Control 1",
           "name": "Quick Control 1",
