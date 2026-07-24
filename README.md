@@ -1,6 +1,6 @@
-# Monogram + Cubase #
+# Monogram, Palette Gear + Cubase & Nuendo #
 
-This is a collection of Monogram assignments for Steinberg Cubase and Nuendo, version 5 or later, with Spitfire, VSL and typical film composing midi CCs.
+This is a collection of Monogram and palette gear legacy assignments for Steinberg Cubase and Nuendo, version 5 or later, with Spitfire, VSL and typical film composing midi CCs.
 
 ### Prerequisites ###
 
