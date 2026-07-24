@@ -1,6 +1,12 @@
 # Monogram, Palette Gear + Cubase & Nuendo #
 
-This is a collection of Monogram and palette gear legacy assignments for Steinberg Cubase and Nuendo, version 5 or later, with Spitfire, VSL and typical film composing midi CCs.
+This is a collection of Monogram and Palette Gear Legacy assignments for Steinberg Cubase and Nuendo, version 5 or later, with Spitfire, VSL and typical film composing midi CCs. 
+
+- To make it work with other daws, just edit the config.json and follow the structure/pattern to add support for your DAW.
+- You can also add support for other Kontakt libraries and 3rd party VSTis by adding the MIDI CCs + names you need to the presets.json file
+- I also added a few unassigned MIDI CCs which you can use via the MIDI learn function in most instruments
+
+---
 
 ### Prerequisites ###
 
