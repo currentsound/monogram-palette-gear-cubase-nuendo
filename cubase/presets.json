@@ -360,6 +360,168 @@
             }
         },
         {
+          "label": "MIDI CC.VSL.CC20 Vibrato",
+          "name": "MIDI CC.VSL.Vibrato",
+          "pose": {
+            "cc": 20,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Spitfire Audio.CC21 Vibrato",
+          "name": "MIDI CC.Spitfire.Vibrato",
+          "pose": {
+            "cc": 21,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Standard.CC71 Resonance",
+          "name": "MIDI CC.Standard.Resonance",
+          "pose": {
+            "cc": 71,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Standard.CC74 Cutoff",
+          "name": "MIDI CC.Standard.Cutoff",
+          "pose": {
+            "cc": 74,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.VSL.CC22 Attack",
+          "name": "MIDI CC.VSL.Attack",
+          "pose": {
+            "cc": 22,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.VSL.CC23 Release",
+          "name": "MIDI CC.VSL.CC23 Release",
+          "pose": {
+            "cc": 23,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Spitfire Audio.CC21 Vibrato",
+          "name": "MIDI CC.Spitfire.Vibrato",
+          "pose": {
+            "cc": 21,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.VSL.CC34 Stretch Factor",
+          "name": "MIDI CC.VSL.Stretch Factor",
+          "pose": {
+            "cc": 34,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.VSL.CC8 Timbre Adjust",
+          "name": "MIDI CC.VSL.Timbre Adjust",
+          "pose": {
+            "cc": 8,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Spitfire Audio.CC21 Vibrato",
+          "name": "MIDI CC.Spitfire.Vibrato",
+          "pose": {
+            "cc": 21,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.VSL.CC33 Legato Blur",
+          "name": "MIDI CC.VSL.Legato Blur",
+          "pose": {
+            "cc": 33,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.VSL.CC31 Dynamic Range",
+          "name": "MIDI CC.VSL.Dynamic Range",
+          "pose": {
+            "cc": 31,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.VSL.CC25 Humanize Delay Scale",
+          "name": "MIDI CC.VSL.Humanize Delay Scale",
+          "pose": {
+            "cc": 25,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Spitfire Audio.CC21 Vibrato",
+          "name": "MIDI CC.Spitfire.Vibrato",
+          "pose": {
+            "cc": 21,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.VSL.CC26 Humanize Tuning",
+          "name": "MIDI CC.VSL.Humanize Tuning",
+          "pose": {
+            "cc": 26,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.VSL.CC27 Humanize Amount",
+          "name": "MIDI CC.VSL.Humanize Amount",
+          "pose": {
+            "cc": 27,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.VSL.CC3 Dim Cntrl A",
+          "name": "MIDI CC.VSL.CC3 Dim Cntrl A",
+          "pose": {
+            "cc": 3,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.VSL.CC4 Dim Cntrl B",
+          "name": "MIDI CC.VSL.Dim Cntrl B",
+          "pose": {
+            "cc": 4,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
           "label": "Quick Controls.Quick Control 1",
           "name": "Quick Control 1",
           "turn": {
