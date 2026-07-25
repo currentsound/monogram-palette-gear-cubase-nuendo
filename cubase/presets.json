@@ -1069,25 +1069,25 @@
         },
         {
           "label": "MIDI CC.VSL.CC31 Dynamic Range",
-          "name": "MIDI CC.Unassigned.CC27",
+          "name": "MIDI CC.VSL.Dynamic Range",
           "pose": {
-            "cc": 27,
+            "cc": 31,
             "channel": 1,
             "midi": "cc"
             }
         },
         {
-          "label": "MIDI CC.Unassigned.CC25 Humanize Delay Scale",
-          "name": "MIDI CC.Unassigned.CC28",
+          "label": "MIDI CC.VSL.CC25 Humanize Delay Scale",
+          "name": "MIDI CC.VSL.Humanize Delay Scale",
           "pose": {
-            "cc": 28,
+            "cc": 25,
             "channel": 1,
             "midi": "cc"
             }
         },
         {
-          "label": "MIDI CC.Unassigned.CC26 Humanize Tuning",
-          "name": "MIDI CC.Unassigned.Humanize Tuning",
+          "label": "MIDI CC.VSL.CC26 Humanize Tuning",
+          "name": "MIDI CC.VSL.Humanize Tuning",
           "pose": {
             "cc": 26,
             "channel": 1,
@@ -1095,8 +1095,8 @@
             }
         },
         {
-          "label": "MIDI CC.Unassigned.CC27 Humanize Amount",
-          "name": "MIDI CC.Unassigned.Humanize Amount",
+          "label": "MIDI CC.VSL.CC27 Humanize Amount",
+          "name": "MIDI CC.VSL.Humanize Amount",
           "pose": {
             "cc": 27,
             "channel": 1,
@@ -1104,8 +1104,8 @@
             }
         },
         {
-          "label": "MIDI CC.Unassigned.CC3 Dim Cntrl A",
-          "name": "MIDI CC.Unassigned.CC3 Dim Cntrl A",
+          "label": "MIDI CC.VSL.CC3 Dim Cntrl A",
+          "name": "MIDI CC.VSL.CC3 Dim Cntrl A",
           "pose": {
             "cc": 3,
             "channel": 1,
@@ -1113,8 +1113,8 @@
             }
         },
         {
-          "label": "MIDI CC.Unassigned.CC4 Dim Cntrl B",
-          "name": "MIDI CC.Unassigned.Dim Cntrl B",
+          "label": "MIDI CC.VSL.CC4 Dim Cntrl B",
+          "name": "MIDI CC.VSL.Dim Cntrl B",
             "pose": {
             "cc": 4,
             "channel": 1,
