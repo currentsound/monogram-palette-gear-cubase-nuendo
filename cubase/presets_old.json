@@ -242,14 +242,14 @@
         }
     ],
     "dial":[
-        {
+      {
           "label": "MIDI CC.CC1 Modulation",
           "name": "MIDI CC.Modulation",
           "pose": {
             "cc": 1,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC2 Breath Controller",
@@ -258,7 +258,7 @@
             "cc": 2,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC4 Foot Pedal",
@@ -267,7 +267,7 @@
             "cc": 4,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC5 Portamento Time",
@@ -276,7 +276,7 @@
             "cc": 5,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC7 Volume",
@@ -285,7 +285,7 @@
             "cc": 7,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC8 Balance",
@@ -294,7 +294,7 @@
             "cc": 8,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC10 Pan",
@@ -303,16 +303,16 @@
             "cc": 10,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC11 Expression",
           "name": "MIDI CC.Expression",
           "pose": {
-            "cc": 10,
+            "cc": 11,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.Spitfire Audio.CC16 Speed",
@@ -321,7 +321,7 @@
             "cc": 16,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.Spitfire Audio.CC17 Release",
@@ -330,7 +330,7 @@
             "cc": 17,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.Spitfire Audio.CC18 Tightness",
@@ -339,7 +339,7 @@
             "cc": 18,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.Spitfire Audio.CC19 Reverb",
@@ -348,7 +348,7 @@
             "cc": 19,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.Spitfire Audio.CC21 Vibrato",
@@ -357,16 +357,133 @@
             "cc": 21,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
+        "label": "MIDI CC.VSL.CC20 Vibrato",
+        "name": "MIDI CC.VSL.Vibrato",
+        "pose": {
+          "cc": 20,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.Standard.CC71 Resonance",
+        "name": "MIDI CC.Standard.Resonance",
+        "pose": {
+          "cc": 71,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.Standard.CC74 Cutoff",
+        "name": "MIDI CC.Standard.Cutoff",
+        "pose": {
+          "cc": 74,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.Unassigned.CC22",
+        "name": "MIDI CC.Unassigned.CC22",
+        "pose": {
+          "cc": 22,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.Unassigned.CC23,,
+        "name": "MIDI CC.Unassigned.CC23",
+        "pose": {
+          "cc": 23,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.Unassigned.CC24",
+        "name": "MIDI CC.Unassigned.CC24",
+        "pose": {
+          "cc": 24,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.Unassigned.CC25",
+        "name": "MIDI CC.Unassigned.CC25",
+        "pose": {
+          "cc": 25,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.Unassigned.CC26",
+        "name": "MIDI CC.Unassigned.CC26",
+        "pose": {
+          "cc": 26,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.Unassigned.CC27",
+        "name": "MIDI CC.Unassigned.CC27",
+        "pose": {
+          "cc": 27,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.Unassigned.CC28",
+        "name": "MIDI CC.Unassigned.CC28",
+        "pose": {
+          "cc": 28,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.Unassigned.CC29",
+        "name": "MIDI CC.Unassigned.CC29",
+        "pose": {
+          "cc": 29,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.Unassigned.CC30",
+        "name": "MIDI CC.Unassigned.CC30",
+        "pose": {
+          "cc": 30,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
+        "label": "MIDI CC.Unassigned.CC31",
+        "name": "MIDI CC.Unassigned.CC31",
+        "pose": {
+          "cc": 31,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
           "label": "Quick Controls.Quick Control 1",
           "name": "Quick Control 1",
           "turn": {
             "cc": 3,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 2",
@@ -375,7 +492,7 @@
             "cc": 9,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 3",
@@ -384,7 +501,7 @@
             "cc": 14,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 4",
@@ -393,7 +510,7 @@
             "cc": 15,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 5",
@@ -402,7 +519,7 @@
             "cc": 28,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 6",
@@ -411,7 +528,7 @@
             "cc": 29,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 7",
@@ -420,7 +537,7 @@
             "cc": 30,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 8",
@@ -429,7 +546,7 @@
             "cc": 31,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Mixer.Master Volume",
@@ -996,132 +1113,6 @@
             }
         },
         {
-          "label": "MIDI CC.VSL.CC20 Vibrato",
-          "name": "MIDI CC.VSL.Vibrato",
-          "pose": {
-            "cc": 20,
-            "channel": 1,
-            "midi": "cc"
-            }
-        },
-        {
-          "label": "MIDI CC.Standard.CC71 Resonance",
-          "name": "MIDI CC.Standard.Resonance",
-          "pose": {
-            "cc": 71,
-            "channel": 1,
-            "midi": "cc"
-            }
-        },
-        {
-          "label": "MIDI CC.Standard.CC74 Cutoff",
-          "name": "MIDI CC.Standard.Cutoff",
-          "pose": {
-            "cc": 74,
-            "channel": 1,
-            "midi": "cc"
-          }
-        },
-        {
-          "label": "MIDI CC.VSL.CC22 Attack",
-          "name": "MIDI CC.VSL.Attack",
-          "pose": {
-            "cc": 22,
-            "channel": 1,
-            "midi": "cc"
-            }
-        },
-        {
-          "label": "MIDI CC.VSL.CC23 Release",
-          "name": "MIDI CC.VSL.Release",
-          "pose": {
-            "cc": 23,
-            "channel": 1,
-            "midi": "cc"
-            }
-        },
-        {
-          "label": "MIDI CC.VSL.CC34 Stretch Factor",
-          "name": "MIDI CC.VSL.Stretch Factor",
-          "pose": {
-            "cc": 34,
-            "channel": 1,
-            "midi": "cc"
-            }
-        },
-        {
-          "label": "MIDI CC.VSL.CC8 Timbre Adjust",
-          "name": "MIDI CC.VSL.Timbre Adjust",
-          "pose": {
-            "cc": 8,
-            "channel": 1,
-            "midi": "cc"
-            }
-        },
-        {
-          "label": "MIDI CC.VSL.CC33 Legato Blur",
-          "name": "MIDI CC.VSL.Legato Blur",
-          "pose": {
-            "cc": 33,
-            "channel": 1,
-            "midi": "cc"
-            }
-        },
-        {
-          "label": "MIDI CC.VSL.CC31 Dynamic Range",
-          "name": "MIDI CC.Unassigned.CC27",
-          "pose": {
-            "cc": 27,
-            "channel": 1,
-            "midi": "cc"
-            }
-        },
-        {
-          "label": "MIDI CC.Unassigned.CC25 Humanize Delay Scale",
-          "name": "MIDI CC.Unassigned.CC28",
-          "pose": {
-            "cc": 28,
-            "channel": 1,
-            "midi": "cc"
-            }
-        },
-        {
-          "label": "MIDI CC.Unassigned.CC26 Humanize Tuning",
-          "name": "MIDI CC.Unassigned.Humanize Tuning",
-          "pose": {
-            "cc": 26,
-            "channel": 1,
-            "midi": "cc"
-            }
-        },
-        {
-          "label": "MIDI CC.Unassigned.CC27 Humanize Amount",
-          "name": "MIDI CC.Unassigned.Humanize Amount",
-          "pose": {
-            "cc": 27,
-            "channel": 1,
-            "midi": "cc"
-            }
-        },
-        {
-          "label": "MIDI CC.Unassigned.CC3 Dim Cntrl A",
-          "name": "MIDI CC.Unassigned.CC3 Dim Cntrl A",
-          "pose": {
-            "cc": 3,
-            "channel": 1,
-            "midi": "cc"
-            }
-        },
-        {
-          "label": "MIDI CC.Unassigned.CC4 Dim Cntrl B",
-          "name": "MIDI CC.Unassigned.Dim Cntrl B",
-            "pose": {
-            "cc": 4,
-            "channel": 1,
-            "midi": "cc"
-            }
-        },
-        {
           "label": "Quick Controls.Quick Control 1",
           "name": "Quick Control 1",
           "pose": {
@@ -1197,99 +1188,99 @@
           "label": "Mixer.Master Volume",
           "name": "Volume (Master)",
           "pose": {
-            "cc": 106,
-            "channel": 12,
-            "midi": "cc"
+                "cc": 106,
+                "channel": 12,
+                "midi": "cc"
             }
         },
         {
           "label": "Mixer.Selected Track.Volume",
           "name": "Volume (Selected Track)",
           "pose": {
-            "cc": 85,
-            "channel": 12,
-            "midi": "cc"
+                "cc": 85,
+                "channel": 12,
+                "midi": "cc"
             }
         },
         {
           "label": "Mixer.Selected Track.Pan",
           "name": "Pan (Selected Track)",
           "pose": {
-            "cc": 86,
-            "channel": 12,
-            "midi": "cc"
+                "cc": 86,
+                "channel": 12,
+                "midi": "cc"
             }
         },
                 {
           "label": "Mixer.Selected Track.Send 1",
           "name": "Send 1",
           "pose": {
-            "cc": 87,
-            "channel": 12,
-            "midi": "cc"
-              }
+                "cc": 87,
+                "channel": 12,
+                "midi": "cc"
+            }
         },
         {
           "label": "Mixer.Selected Track.Send 2",
           "name": "Send 2",
           "pose": {
-            "cc": 89,
-            "channel": 12,
-            "midi": "cc"
+                "cc": 89,
+                "channel": 12,
+                "midi": "cc"
             }
         },
         {
           "label": "Mixer.Selected Track.Send 3",
           "name": "Send 3",
           "pose": {
-            "cc": 90,
-            "channel": 12,
-            "midi": "cc"
+                "cc": 90,
+                "channel": 12,
+                "midi": "cc"
             }
         },
         {
           "label": "Mixer.Selected Track.Send 4",
           "name": "Send 4",
           "pose": {
-            "cc": 102,
-            "channel": 12,
-            "midi": "cc"
+                "cc": 102,
+                "channel": 12,
+                "midi": "cc"
             }
         },
         {
           "label": "Mixer.Selected Track.Send 5",
           "name": "Send 5",
           "pose": {
-            "cc": 103,
-            "channel": 12,
-            "midi": "cc"
+                "cc": 103,
+                "channel": 12,
+                "midi": "cc"
             }
         },
         {
           "label": "Mixer.Selected Track.Send 6",
           "name": "Send 6",
           "pose": {
-            "cc": 104,
-            "channel": 12,
-            "midi": "cc"
+                "cc": 104,
+                "channel": 12,
+                "midi": "cc"
             }
         },
         {
           "label": "Mixer.Selected Track.Send 7",
           "name": "Send 7",
           "pose": {
-            "cc": 105,
-            "channel": 12,
-            "midi": "cc"
+                "cc": 105,
+                "channel": 12,
+                "midi": "cc"
             }
         },
         {
           "label": "Mixer.Selected Track.Send 8",
           "name": "Send 8",
           "pose": {
-            "cc": 106,
-            "channel": 12,
-            "midi": "cc"
+                "cc": 106,
+                "channel": 12,
+                "midi": "cc"
             }
         }
     ]
