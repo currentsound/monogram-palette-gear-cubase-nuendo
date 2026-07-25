@@ -309,7 +309,7 @@
           "label": "MIDI CC.CC11 Expression",
           "name": "MIDI CC.Expression",
           "pose": {
-            "cc": 10,
+            "cc": 11,
             "channel": 1,
             "midi": "cc"
             }
@@ -1107,7 +1107,7 @@
           "label": "MIDI CC.CC11 Expression",
           "name": "MIDI CC.Expression",
           "pose": {
-            "cc": 10,
+            "cc": 11,
             "channel": 1,
             "midi": "cc"
             }
