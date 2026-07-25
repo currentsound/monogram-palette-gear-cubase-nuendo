@@ -378,6 +378,15 @@
         }
       },
       {
+        "label": "MIDI CC.CC74 Cutoff",
+        "name": "MIDI CC.Cutoff",
+        "pose": {
+          "cc": 71,
+          "channel": 1,
+          "midi": "cc"
+        }
+      },
+      {
         "label": "MIDI CC.CC22 Unassigned",
         "name": "MIDI CC.22 Unassigned",
         "pose": {
