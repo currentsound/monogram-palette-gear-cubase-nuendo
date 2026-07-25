@@ -242,14 +242,14 @@
         }
     ],
     "dial":[
-        {
+      {
           "label": "MIDI CC.CC1 Modulation",
           "name": "MIDI CC.Modulation",
           "pose": {
             "cc": 1,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC2 Breath Controller",
@@ -258,7 +258,7 @@
             "cc": 2,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC4 Foot Pedal",
@@ -267,7 +267,7 @@
             "cc": 4,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC5 Portamento Time",
@@ -276,7 +276,7 @@
             "cc": 5,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC7 Volume",
@@ -285,7 +285,7 @@
             "cc": 7,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC8 Balance",
@@ -294,7 +294,7 @@
             "cc": 8,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC10 Pan",
@@ -303,7 +303,7 @@
             "cc": 10,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.CC11 Expression",
@@ -312,7 +312,7 @@
             "cc": 11,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.Spitfire Audio.CC16 Speed",
@@ -321,7 +321,7 @@
             "cc": 16,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.Spitfire Audio.CC17 Release",
@@ -330,7 +330,7 @@
             "cc": 17,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.Spitfire Audio.CC18 Tightness",
@@ -339,7 +339,7 @@
             "cc": 18,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.Spitfire Audio.CC19 Reverb",
@@ -348,7 +348,7 @@
             "cc": 19,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "MIDI CC.Spitfire Audio.CC21 Vibrato",
@@ -357,9 +357,9 @@
             "cc": 21,
             "channel": 1,
             "midi": "cc"
-            }
+          }
         },
-      {
+        {
         "label": "MIDI CC.VSL.CC20 Vibrato",
         "name": "MIDI CC.VSL.Vibrato",
         "pose": {
@@ -476,14 +476,14 @@
           "midi": "cc"
         }
       },
-        {
+      {
           "label": "Quick Controls.Quick Control 1",
           "name": "Quick Control 1",
           "turn": {
             "cc": 3,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 2",
@@ -492,7 +492,7 @@
             "cc": 9,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 3",
@@ -501,7 +501,7 @@
             "cc": 14,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 4",
@@ -510,7 +510,7 @@
             "cc": 15,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 5",
@@ -519,7 +519,7 @@
             "cc": 28,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 6",
@@ -528,7 +528,7 @@
             "cc": 29,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 7",
@@ -537,7 +537,7 @@
             "cc": 30,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Quick Controls.Quick Control 8",
@@ -546,7 +546,7 @@
             "cc": 31,
             "channel": 11,
             "midi": "cc"
-            }
+          }
         },
         {
           "label": "Mixer.Master Volume",
