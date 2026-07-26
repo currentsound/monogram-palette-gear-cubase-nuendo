@@ -521,6 +521,132 @@
             "midi": "cc"
             }
         },
+		{
+          "label": "MIDI CC.Modern Scoring Strings.CC1 Dynamics",
+          "name": "MIDI CC.Modern Scoring Strings.Dynamics",
+          "pose": {
+            "cc": 1,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC2 Non Vibrato Knob",
+          "name": "MIDI CC.Modern Scoring Strings.Non Vibrato Knob",
+          "pose": {
+            "cc": 2,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC3 Detune Knob",
+          "name": "MIDI CC.Modern Scoring Strings.Detune Knob",
+          "pose": {
+            "cc": 3,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC4 Articulation Change",
+          "name": "MIDI CC.Modern Scoring Strings.Articulation Change",
+          "pose": {
+            "cc": 4,
+            "channel": 1,
+            "midi": "cc"
+          }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC7 Master Volume",
+          "name": "MIDI CC.Modern Scoring Strings.Master Volume",
+          "pose": {
+            "cc": 7,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC8 Basess 3 note 4 note slider",
+          "name": "MIDI CC.Modern Scoring Strings.Basess 3 note 4 note slider",
+          "pose": {
+            "cc": 8,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC9 Articulation Fader",
+          "name": "MIDI CC.Modern Scoring Strings.Articulation Fader",
+          "pose": {
+            "cc": 9,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC11 Volume Level Extra",
+          "name": "MIDI CC.Modern Scoring Strings.Volume Level Extra",
+          "pose": {
+            "cc": 11,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC12 Cutoff",
+          "name": "MIDI CC.Modern Scoring Strings.Cutoff",
+          "pose": {
+            "cc": 12,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC13 Resonance",
+          "name": "MIDI CC.Modern Scoring Strings.Resonance",
+          "pose": {
+            "cc": 13,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC13 Brightness",
+          "name": "MIDI CC.Modern Scoring Strings.Brightness",
+          "pose": {
+            "cc": 14,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC15 Tightnen Shorts",
+          "name": "MIDI CC.Modern Scoring Strings.Tightnen Shorts",
+          "pose": {
+            "cc": 15,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC30 On Off Auto Divisi",
+          "name": "MIDI CC.Modern Scoring Strings.On Off Auto Divisi",
+          "pose": {
+            "cc": 30,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC90 On Off Detune",
+          "name": "MIDI CC.Modern Scoring Strings.On Off Detune",
+          "pose": {
+            "cc": 90,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
         {
           "label": "Quick Controls.Quick Control 1",
           "name": "Quick Control 1",
@@ -1279,6 +1405,132 @@
           "name": "MIDI CC.VSL.Dim Cntrl B",
             "pose": {
             "cc": 4,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+		{
+          "label": "MIDI CC.Modern Scoring Strings.CC1 Dynamics",
+          "name": "MIDI CC.Modern Scoring Strings.Dynamics",
+          "pose": {
+            "cc": 1,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC2 Non Vibrato Knob",
+          "name": "MIDI CC.Modern Scoring Strings.Non Vibrato Knob",
+          "pose": {
+            "cc": 2,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC3 Detune Knob",
+          "name": "MIDI CC.Modern Scoring Strings.Detune Knob",
+          "pose": {
+            "cc": 3,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC4 Articulation Change",
+          "name": "MIDI CC.Modern Scoring Strings.Articulation Change",
+          "pose": {
+            "cc": 4,
+            "channel": 1,
+            "midi": "cc"
+          }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC7 Master Volume",
+          "name": "MIDI CC.Modern Scoring Strings.Master Volume",
+          "pose": {
+            "cc": 7,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC8 Basess 3 note 4 note slider",
+          "name": "MIDI CC.Modern Scoring Strings.Basess 3 note 4 note slider",
+          "pose": {
+            "cc": 8,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC9 Articulation Fader",
+          "name": "MIDI CC.Modern Scoring Strings.Articulation Fader",
+          "pose": {
+            "cc": 9,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC11 Volume Level Extra",
+          "name": "MIDI CC.Modern Scoring Strings.Volume Level Extra",
+          "pose": {
+            "cc": 11,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC12 Cutoff",
+          "name": "MIDI CC.Modern Scoring Strings.Cutoff",
+          "pose": {
+            "cc": 12,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC13 Resonance",
+          "name": "MIDI CC.Modern Scoring Strings.Resonance",
+          "pose": {
+            "cc": 13,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC13 Brightness",
+          "name": "MIDI CC.Modern Scoring Strings.Brightness",
+          "pose": {
+            "cc": 14,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC15 Tightnen Shorts",
+          "name": "MIDI CC.Modern Scoring Strings.Tightnen Shorts",
+          "pose": {
+            "cc": 15,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC30 On Off Auto Divisi",
+          "name": "MIDI CC.Modern Scoring Strings.On Off Auto Divisi",
+          "pose": {
+            "cc": 30,
+            "channel": 1,
+            "midi": "cc"
+            }
+        },
+        {
+          "label": "MIDI CC.Modern Scoring Strings.CC90 On Off Detune",
+          "name": "MIDI CC.Modern Scoring Strings.On Off Detune",
+          "pose": {
+            "cc": 90,
             "channel": 1,
             "midi": "cc"
             }
